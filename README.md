@@ -97,6 +97,8 @@ Files:
 
 - spam_sms_detection.ipynb: Jupyter Notebook containing the full project code.
 - sms_spam_detector.py: Script for model training and evaluation.
+- 
+![Spam Detection](spam.gif)
 # Dataset
 
 ## Movie Genre Classification Dataset

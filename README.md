@@ -105,7 +105,7 @@ Dataset Link: [Movie Genre Classification Dataset:](https://www.kaggle.com/datas
 
 Description:
 
-This dataset contains a collection of movie titles, plot summaries, and genres, sourced from IMDb. It includes over 40,000 entries, covering a diverse range of genres. The dataset was instrumental in training a machine learning model to predict movie genres based on plot summaries.
+This dataset contains a collection of movie titles, plot summaries, and genres, sourced from IMDb. It includes over 50,000 entries, covering a diverse range of genres. The dataset was instrumental in training a machine learning model to predict movie genres based on plot summaries.
 
 Key Features:
 

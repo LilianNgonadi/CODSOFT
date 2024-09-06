@@ -43,6 +43,8 @@ Files:
 - main.py: Flask backend for the web application.
 - index.html: HTML template for user interaction
 
+![Genre Classification](genre.gif)
+
 # Credit Card Fraud Detection
 Objective:
 Develop a machine learning model to detect fraudulent credit card transactions.

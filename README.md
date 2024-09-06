@@ -101,7 +101,7 @@ Files:
 
 ## Movie Genre Classification Dataset
 
-Dataset Link: [Movie Genre Classification Dataset:]([(https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb))
+Dataset Link: [Movie Genre Classification Dataset:](https://www.kaggle.com/datasets/hijest/genre-classification-dataset-imdb)
 
 Description:
 
@@ -117,7 +117,7 @@ Use Case: The dataset was used in the Movie Genre Classification project, where 
 
 ## Credit Card Fraud Detection Dataset
 
-Dataset Link: Fraud Detection Dataset
+Dataset Link: [Fraud Detection Dataset:](https://www.kaggle.com/datasets/kartik2112/fraud-detection)
 
 Description:
 
@@ -135,7 +135,8 @@ Use Case: In the Credit Card Fraud Detection project, this dataset was used to b
 
 ## Bank Customer Churn Prediction Dataset
 
-Dataset Link: Bank Customer Churn Prediction Dataset
+Dataset Link: [Bank Customer Churn Prediction Dataset:](https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction)
+
 
 Description:
 
@@ -153,7 +154,7 @@ Use Case: This dataset was used in the Customer Churn Prediction project. I appl
 
 ## SMS Spam Collection Dataset
 
-Dataset Link: SMS Spam Collection Dataset
+Dataset Link:  [SMS Spam Collection Dataset:](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
 Description:
 
@@ -165,30 +166,3 @@ Key Features:
 - Label: The label indicating whether the message is spam (1) or legitimate (0).
 
 Use Case: In the Spam SMS Detection project, this dataset was used to develop a model that classifies SMS messages as spam or legitimate. The project involved extensive text preprocessing, including tokenization, stopword removal, and lemmatization, and the application of various machine learning algorithms.
-
-
-# Exploratory Data Analysis
-* To understand the dataset an exploratory data analysis was carried out to visualize the various features of [GRID3 NGA Health Facilities dataset:](https://data.grid3.org/datasets/1b358b47e41244cbaaccb640d9a4bfc9_0/about)
-
-## Visualize Numerical Feature Distribution
-
-These plots highlight areas with higher and lower densities of healthcare facilities, which helped in identifying regions that might be underserved or over-served.
-
-![Numerical features](Numericalfeatures.png "Numerical features")
-
-## Visualize Categorical Feature Distribution
-
-- Urban 1 and Ifo are the most common ward and LGA names, indicating concentrated healthcare facility locations, likely due to higher population or focused healthcare investments.
-- Lagos, Katsina, and Benue have the highest facility counts, aligning with population and administrative healthcare priorities.
-- Most healthcare facilities are "Primary Health Centers," underscoring primary care's centrality in the healthcare system, with fewer General and Specialist Hospitals.
-- The healthcare sector is predominantly state owned, suggesting a significant state sector presence, supplemented by national agency and other facilities.
-  
-![categorical features](categoricalfeatures.png "Categorical features")
-
-## Map Visualization of Health Facilities
-The map shows the functional status of health facilities across Nigeria, with functional facilities primarily concentrated in urban areas like Lagos and Kano. Non-functional facilities are scattered throughout the country, often in less developed regions. Partially functional facilities are also widespread, indicating operational challenges. Regions like the northern states and economically vibrant southern areas exhibit a mix of all facility statuses. This visual data aids policymakers in identifying areas needing targeted healthcare infrastructure improvements.
-
-![output Photo](output.png "Nigerian Functionality Map")
-
-# The problem statement 
-In this project, I addressed a classification problem aimed at categorizing healthcare facilities in Nigeria based on their operational status. Utilizing the XGBoost algorithm alongside Python and Scikit-Learn, I developed a model to classify facilities into categories such as 'Functional', 'Non-Functional', and 'Partially Functional'. This approach leverages machine learning techniques to enhance decision-making processes in healthcare management and infrastructure development.

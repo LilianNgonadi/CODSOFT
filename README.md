@@ -83,6 +83,8 @@ Files:
 - customer_churn_prediction.ipynb: Jupyter Notebook containing the full project code.
 - churn_model.py: Script for model training and evaluation.
 
+![Customer Churn Prediction](churn.gif)
+
 # Spam SMS Detection
 
 Objective:

@@ -61,8 +61,8 @@ Python, Scikit-learn, Pandas, Imbalanced-learn.
 Files:
 - credit_card_fraud_detection.ipynb: Jupyter Notebook containing the full project code.
 - fraud_detection.py: Script for model training and evaluation.
-- 
-<img src="fraud.gif" alt="Credit Card Fraud Detection" width="800" height="auto" />
+  
+![Credit Card Fraud Detection](fraud.gif)
 
 # Customer Churn Prediction
 

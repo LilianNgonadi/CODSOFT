@@ -62,6 +62,8 @@ Files:
 - credit_card_fraud_detection.ipynb: Jupyter Notebook containing the full project code.
 - fraud_detection.py: Script for model training and evaluation.
 
+![Credit Card Fraud Detection](fraud.gif)
+
 # Customer Churn Prediction
 
 Objective:
